@@ -163,19 +163,19 @@ section .container{
 }
 
 #card-one:before{
-  background-image: url('/img/MSR.JPG');
+  background-image: url('https://farm8.staticflickr.com/7832/46990627912_f071149c05_o.jpg');
 
 }
 
 
 #card-two:before{
-  background-image: url('/img/NE-map.JPG') ;
+  background-image: url('https://farm8.staticflickr.com/7887/32100911657_04e437ac71_o.jpg') ;
 
 }
 
 
 #card-three:before{
-      background-image: url('/Calculator.JPG') ;
+      background-image: url('https://farm8.staticflickr.com/7840/32100912787_070641d831_o.jpg') ;
 
 }
 
