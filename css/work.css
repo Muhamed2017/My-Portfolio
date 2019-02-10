@@ -169,13 +169,13 @@ section .container{
 
 
 #card-two:before{
-  background-image: url('/img/NE-map.jpg');
+  background-image: url('/img/NE-map.jpg') ;
 
 }
 
 
 #card-three:before{
-      background-image: url('/img/Calculator-2.jpg');
+      background-image: url('/img/Calculator-2.jpg') ;
 
 }
 
