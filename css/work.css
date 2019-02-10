@@ -169,7 +169,7 @@ section .container{
 
 
 #card-two:before{
-  background-image: url(NE-map.JPG') ;
+  background-image: url('NE-map.JPG') ;
 
 }
 
