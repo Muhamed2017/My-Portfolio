@@ -163,19 +163,19 @@ section .container{
 }
 
 #card-one:before{
-  background-image: url('/img/MSR.jpg');
+  background-image: url('/img/MSR.JPG');
 
 }
 
 
 #card-two:before{
-  background-image: url('/img/NE-map.jpg');
+  background-image: url('/img/NE-map.JPG');
 
 }
 
 
 #card-three:before{
-      background-image: url('/img/Calculator-2.jpg');
+      background-image: url('/img/Calculator-2.JPG');
 
 }
 
